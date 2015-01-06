@@ -2,6 +2,9 @@ title: 比特币挖矿（二）：GetWork协议
 date: 2015-01-04 17:16:33
 tags:
 ---
+
+作者：潘志彪
+
 CPU挖矿时代并没有延续多久，马上就迎来了GPU时代。GPU由于具有天然的多核优势且功耗可控，很快开始普及，同时算力的快速上涨使得CPU无利可图遭到淘汰。
 
 ![GPU显卡矿机](https://cloud.githubusercontent.com/assets/514951/5595084/3f7982fc-92a4-11e4-9401-8926b351eac7.jpg)
